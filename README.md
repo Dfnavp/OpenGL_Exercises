@@ -6,5 +6,4 @@ All these exercises were developed in Linux (Fedora 41 KDE Spin), using Neovim a
 ## Contents
 
 ### Create_Window
-
 This exercises show how to initialize an OpenGL window using SDL+GLW or GLFW+glad.
