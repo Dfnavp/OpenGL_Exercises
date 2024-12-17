@@ -24,13 +24,12 @@ set(GLFW_BUILD_DOCS OFF CACHE BOOL "GLFW lib only")
 set(GLFW_INSTALL OFF CACHE BOOL "GLFW lib only")
 
 # Include GLFW
-add_subdirectory(external/glfw)
-#include_directories("${CMAKE_SOURCE_DIR}/external/GLFW/include")
+add_subdirectory(dep/glfw)
 
 
 # --- SETUP GLAD ---
-include_directories("${CMAKE_SOURCE_DIR}/external/glad/include")
-set(GLAD_SOURCES "${CMAKE_SOURCE_DIR}/external/glad/src/glad.c")
+include_directories("${CMAKE_SOURCE_DIR}/dep/glad/include")
+set(GLAD_SOURCES "${CMAKE_SOURCE_DIR}/dep/glad/src/glad.c")
 
 
 # --- CORE PROJECT SETUP ---

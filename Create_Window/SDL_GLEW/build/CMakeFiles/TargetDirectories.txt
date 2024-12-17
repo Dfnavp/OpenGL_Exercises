@@ -1,0 +1,3 @@
+/home/dna/Documents/Teaching/2024/Computer_Graphics/OpenGL_Exercises/Create_Window/SDL_GLEW/build/CMakeFiles/Window_SDL.dir
+/home/dna/Documents/Teaching/2024/Computer_Graphics/OpenGL_Exercises/Create_Window/SDL_GLEW/build/CMakeFiles/edit_cache.dir
+/home/dna/Documents/Teaching/2024/Computer_Graphics/OpenGL_Exercises/Create_Window/SDL_GLEW/build/CMakeFiles/rebuild_cache.dir

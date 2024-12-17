@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Window_SDL.dir/src/main.cpp.o -o Window_SDL   -L/home/dna/Documents/Teaching/2024/Computer_Graphics/OpenGL_Exercises/Create_Window/SDL_GLEW/lib  -Wl,-rpath,/home/dna/Documents/Teaching/2024/Computer_Graphics/OpenGL_Exercises/Create_Window/SDL_GLEW/lib -lSDL2 -lGLEW
